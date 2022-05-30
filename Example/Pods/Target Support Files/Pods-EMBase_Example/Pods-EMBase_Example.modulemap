@@ -1,0 +1,6 @@
+framework module Pods_EMBase_Example {
+  umbrella header "Pods-EMBase_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

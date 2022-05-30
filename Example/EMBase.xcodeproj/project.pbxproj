@@ -28,7 +28,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		23E71B9CFFA80E8E0A7060DE /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		23E71B9CFFA80E8E0A7060DE /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		3D55B1300BFE8A6AD14A9835 /* Pods-EMBase_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-EMBase_Tests.release.xcconfig"; path = "Target Support Files/Pods-EMBase_Tests/Pods-EMBase_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		4927B59F15DB6D0BE9DB4B35 /* Pods_EMBase_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_EMBase_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		532DE496F899DFBA0B35051F /* Pods-EMBase_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-EMBase_Tests.debug.xcconfig"; path = "Target Support Files/Pods-EMBase_Tests/Pods-EMBase_Tests.debug.xcconfig"; sourceTree = "<group>"; };
@@ -45,8 +45,8 @@
 		7EC7419AD0931B1C463C2DEC /* Pods_EMBase_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_EMBase_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		A477692940287DAA2675CDDC /* Pods-EMBase_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-EMBase_Example.debug.xcconfig"; path = "Target Support Files/Pods-EMBase_Example/Pods-EMBase_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		C80421358668C11ACA5973D9 /* Pods-EMBase_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-EMBase_Example.release.xcconfig"; path = "Target Support Files/Pods-EMBase_Example/Pods-EMBase_Example.release.xcconfig"; sourceTree = "<group>"; };
-		E6AC204D0D457CD62949FF71 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
-		E8074BA2F95277F51E9ACB34 /* EMBase.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = EMBase.podspec; path = ../EMBase.podspec; sourceTree = "<group>"; };
+		E6AC204D0D457CD62949FF71 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		E8074BA2F95277F51E9ACB34 /* EMBase.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = EMBase.podspec; path = ../EMBase.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,7 +77,6 @@
 				532DE496F899DFBA0B35051F /* Pods-EMBase_Tests.debug.xcconfig */,
 				3D55B1300BFE8A6AD14A9835 /* Pods-EMBase_Tests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -227,6 +226,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);

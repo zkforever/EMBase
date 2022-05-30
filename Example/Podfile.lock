@@ -1,0 +1,16 @@
+PODS:
+  - EMBase (0.1.0)
+
+DEPENDENCIES:
+  - EMBase (from `../`)
+
+EXTERNAL SOURCES:
+  EMBase:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  EMBase: 97532633fbf69066bfc0ad4d2eb3c544a7cb95e8
+
+PODFILE CHECKSUM: 5e0dc84bf5b92566fcbc22cbe1aa808e87566a49
+
+COCOAPODS: 1.11.2

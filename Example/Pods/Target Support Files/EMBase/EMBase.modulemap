@@ -1,0 +1,6 @@
+framework module EMBase {
+  umbrella header "EMBase-umbrella.h"
+
+  export *
+  module * { export * }
+}
