@@ -22,7 +22,7 @@ pod 'EMBase'
 
 ## Author
 
-zhongkeng, zhongkeng@himobi.net
+zkforever, owenismylove@gmail.com
 
 ## License
 
