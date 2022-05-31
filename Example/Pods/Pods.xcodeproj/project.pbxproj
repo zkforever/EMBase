@@ -49,11 +49,11 @@
 		2074B1888AE5CEEDA8F24F362D460D74 /* EMBase-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "EMBase-Info.plist"; sourceTree = "<group>"; };
 		2099CF12F8296680EB1CF888E7B4F3BA /* Pods-EMBase_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-EMBase_Example-Info.plist"; sourceTree = "<group>"; };
 		27F68BDC4327992023836F50C6D4229D /* Pods-EMBase_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-EMBase_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		28C0D85C78DB35B008B701F7DE11B07B /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		28C0D85C78DB35B008B701F7DE11B07B /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		3575D032F19CDE2A5812D9CF929FC5ED /* EMBase-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "EMBase-dummy.m"; sourceTree = "<group>"; };
 		49F27D8292C41E4D982A95124550D11A /* Pods-EMBase_Tests */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-EMBase_Tests"; path = Pods_EMBase_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		536DC25CCC8B5DE4FE78E6F2729FE3D1 /* UIImage+Adjust.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "UIImage+Adjust.swift"; path = "EMBase/Classes/UIImage/UIImage+Adjust.swift"; sourceTree = "<group>"; };
-		5A49433C69790C6718C3C1DE5E3574B0 /* EMBase */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = EMBase; path = EMBase.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		5A49433C69790C6718C3C1DE5E3574B0 /* EMBase.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = EMBase.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		5B1A47C2D2E9EDEE1A75EA605FB54D68 /* Pods-EMBase_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-EMBase_Example.modulemap"; sourceTree = "<group>"; };
 		6C3C76C4479C3D018530D3E066062B15 /* EMBase.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = EMBase.release.xcconfig; sourceTree = "<group>"; };
 		6D3CDAFD67126D44B706CB67755E6E7B /* Pods-EMBase_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-EMBase_Tests.debug.xcconfig"; sourceTree = "<group>"; };
@@ -61,14 +61,14 @@
 		73985D4A4132E38BFDAE44AAF30045D1 /* EMBase-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "EMBase-umbrella.h"; sourceTree = "<group>"; };
 		8D8BBC48E7795FB7DB0C1F64BFA677EA /* Pods-EMBase_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-EMBase_Example-frameworks.sh"; sourceTree = "<group>"; };
 		999E3706459FAC86C64FC1BE9349CF6B /* Pods-EMBase_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-EMBase_Example-acknowledgements.plist"; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		B933AE6CDD53B0525B5966912EA2CE37 /* Pods-EMBase_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-EMBase_Tests.modulemap"; sourceTree = "<group>"; };
 		BA1EF6602A2D2A8DBC5A888DE08C159C /* UIImage+Reset.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "UIImage+Reset.swift"; path = "EMBase/Classes/UIImage/UIImage+Reset.swift"; sourceTree = "<group>"; };
 		C0298E6B7E15F6C6F5AF8ED3DA30AAA6 /* UIImage+Extension.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "UIImage+Extension.swift"; path = "EMBase/Classes/UIImage/UIImage+Extension.swift"; sourceTree = "<group>"; };
 		C30BECECDA839F10F272E03DA98A4059 /* Pods-EMBase_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-EMBase_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		C4D4DA07A8880CE8F16400A4304D3A1E /* Pods-EMBase_Example */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-EMBase_Example"; path = Pods_EMBase_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		CA835E17073F78EA653E2E1D62C7AF87 /* EMBase.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = EMBase.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		CF82111330DCF692AA221B34A26F3373 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		CA835E17073F78EA653E2E1D62C7AF87 /* EMBase.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = EMBase.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		CF82111330DCF692AA221B34A26F3373 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		DE984A14906638D0B578C872ED99C257 /* Pods-EMBase_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-EMBase_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		E379B0A60D2ACD4E04791112D10A796F /* Pods-EMBase_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-EMBase_Example.release.xcconfig"; sourceTree = "<group>"; };
 		E742DB4FBFCC7EE9CE42FE53F247AF18 /* Pods-EMBase_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-EMBase_Tests-Info.plist"; sourceTree = "<group>"; };
@@ -126,7 +126,7 @@
 		1B86C4756155AB67BF5BA865F01E7429 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				5A49433C69790C6718C3C1DE5E3574B0 /* EMBase */,
+				5A49433C69790C6718C3C1DE5E3574B0 /* EMBase.framework */,
 				C4D4DA07A8880CE8F16400A4304D3A1E /* Pods-EMBase_Example */,
 				49F27D8292C41E4D982A95124550D11A /* Pods-EMBase_Tests */,
 			);
@@ -315,7 +315,7 @@
 			);
 			name = EMBase;
 			productName = EMBase;
-			productReference = 5A49433C69790C6718C3C1DE5E3574B0 /* EMBase */;
+			productReference = 5A49433C69790C6718C3C1DE5E3574B0 /* EMBase.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 /* End PBXNativeTarget section */
@@ -441,7 +441,7 @@
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
@@ -635,7 +635,7 @@
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
@@ -697,8 +697,7 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};
